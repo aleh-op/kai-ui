@@ -227,7 +227,7 @@ Nothing queued. Next candidates come from app adoption.
 ### 6.1 Package
 
 One package, subpath exports. Consumed as a git tag dependency:
-`"kai-ui": "github:alehatsman/kai-ui#v0.1.0"`.
+`"kai-ui": "github:aleh-op/kai-ui#v0.4.1"`.
 
 ```
 kai-ui/css        → css/index.css (or css/<file>)
