@@ -2,13 +2,13 @@
 
 The fleet's UI kit: tokens, BEM blocks, and thin React and Svelte bindings.
 Two looks — GitHub (light/dark) and Monokai. Design and decisions: [SPEC.md](SPEC.md).
-Rules it follows: [ts-quality docs/UI.md](https://github.com/alehatsman/ts-quality/blob/main/docs/UI.md).
+Rules it follows: [ts-quality docs/UI.md](https://github.com/aleh-op/ts-quality/blob/main/docs/UI.md).
 
 ## Use
 
 ```jsonc
 // package.json
-"kai-ui": "github:alehatsman/kai-ui#v0.1.0"
+"kai-ui": "github:aleh-op/kai-ui#v0.4.1"
 ```
 
 ```css
